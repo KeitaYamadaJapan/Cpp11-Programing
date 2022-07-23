@@ -1,3 +1,89 @@
+
+以下の設問に、3通りのプログラミングを作成した。
+I made solutions three way programing.
+
+
+
+プログラミングの質問＃1リスト
+出典：POJ（Courseraステートメント：POJで完了した問題は、Courseraの最終成績にはカウントされません。）
+注：合計時間制限：4000msメモリ制限：65536kB
+説明
+次のコマンドを完了するプログラムを作成します。
+new id-指定された番号id（id <10000）で新しいシーケンスを作成します
+addidnum-整数numをシーケンス番号付きidに追加します
+merge id1 id2-シーケンスid1とid2の番号をマージし、id2をクリアします
+一意のID-シーケンスIDの重複要素を削除します
+out id-スペースで区切られた、小さいものから大きいものへのシーケンス番号IDの要素を出力します
+
+入力
+最初の行には、コマンドの数を示す数値nが含まれています（n <= 200000）。次のn行に対して1行に1つのコマンド。
+16
+new 1
+new 2
+add 1 1
+add 1 2
+add 1 3
+add 2 1
+add 2 2
+add 2 3
+add 2 4
+out 1
+out 2
+merge 1 2
+out 1
+out 2
+unique 1
+out 1
+出力
+件名の必要に応じて出力します。
+1 2 3 
+1 2 3 4
+1 1 2 2 3 3 4
+
+1 2 3 4
+Programming Question #1 List
+Source: POJ (Coursera Statement: Problems completed on POJ will not count towards Coursera's final grade.)
+Note: Total Time Limit: 4000ms Memory Limit: 65536kB
+describe
+Write a program to complete the following commands:
+new id - create a new sequence with the specified number id (id<10000)
+add id num - add the integer num to the sequence numbered id
+merge id1 id2 - merge the numbers in the sequence id1 and id2 and clear id2
+unique id - remove duplicate elements in sequence id
+out id - output the elements in the sequence numbered id from small to large, separated by spaces
+
+enter
+The first line contains a number n, indicating how many commands there are (n<=200000). One command per line for the next n lines.
+16
+new 1
+new 2
+add 1 1
+add 1 2
+add 1 3
+add 2 1
+add 2 2
+add 2 3
+add 2 4
+out 1
+out 2
+merge 1 2
+out 1
+out 2
+unique 1
+out 1
+
+output
+Output as required by the subject.
+1 2 3 
+1 2 3 4
+1 1 2 2 3 3 4
+
+1 2 3 4
+
+
+
+
+
 Test Data
 First Input    Second Input    Third Inputで同じものを三回入力してください。ただ、Second Thirdは、最後にendを入力してください。
 
