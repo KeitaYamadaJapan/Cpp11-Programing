@@ -1,14 +1,22 @@
 Programming Question #1
+
 Source: POJ (Coursera Statement: Problems completed on POJ will not count towards Coursera's final grade.)
+
 Note: Total Time Limit: 1000ms Memory Limit: 65536kB
+
 describe
 The following program uses enumeration method to solve the following problems, please fill in the blanks.
-A rectangle on the plane, if its sides are parallel to the coordinate axis, we call it a "standard rectangle". Given n non-repeating integer points (points whose horizontal and vertical coordinates are integers), find out how many of the quadrilaterals formed by taking any 4 points from these n points as vertices are standard rectangles.
+
+A rectangle on the plane, if its sides are parallel to the coordinate axis, we call it a "standard rectangle". 
+Given n non-repeating integer points (points whose horizontal and vertical coordinates are integers), 
+find out how many of the quadrilaterals formed by taking any 4 points from these n points as vertices are standard rectangles.
 enter
 The first line is the number of points
-Each subsequent line represents a point, represented by two integers, the first is the x coordinate and the second is the y coordinate
+Each subsequent line represents a point, represented by two integers, 
+the first is the x coordinate and the second is the y coordinate
 output
 Output the number of standard rectangles
+
 sample input
 6
 2 3
@@ -17,8 +25,10 @@ sample input
 4 4
 2 4
 4 3
+
 Sample output
 3
+
 プログラミングの質問＃1
 出典：POJ（Courseraステートメント：POJで完了した問題は、Courseraの最終成績にはカウントされません。）
 注：合計時間制限：1000msメモリ制限：65536kB
