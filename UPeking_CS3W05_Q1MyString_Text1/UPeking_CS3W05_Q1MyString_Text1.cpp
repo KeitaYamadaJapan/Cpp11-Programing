@@ -112,7 +112,10 @@ int main() {
  つまり、MyString クラスから string クラスへの機能拡張は、最後の 2つのステートメントに
  のみ反映されます。ヒント 2: 文字列クラスにはメンバー関数 string substr(int start, int length); があり、開始位置から始まる長さの部分文字列を見つけることができます
  
- Requirement: MyString must be derived from C++ standard string. Suggestion 1: As a result, the "string" replacement for "MyString" in the beginning of the process, the purpose of the procedure was removed after the end of the second sentence, and the other words had no problems, and the export and the front result anastomosis. In other words, MyString type vs. string type function is only filled in at the top of the last two sentences. Suggestion 2: string type has one component function string substr(int start,int length);
+ Requirement: MyString must be derived from C++ standard string. Suggestion 1: As a result, the "string" replacement for "MyString" 
+ in the beginning of the process, the purpose of the procedure was removed after the end of the second sentence, and the other words
+ had no problems, and the export and the front result anastomosis. In other words, MyString type vs. string type function is only 
+ filled in at the top of the last two sentences. Suggestion 2: string type has one component function string substr(int start,int length);
  
  
  プログラム
