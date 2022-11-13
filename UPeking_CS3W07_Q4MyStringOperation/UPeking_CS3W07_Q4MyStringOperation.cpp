@@ -5,6 +5,11 @@
 //  Created by 山田啓太 on 2022/11/11.
 //
 
+/**
+Coursera 北京大学　CS3 week7 Q4
+My solution.
+*/
+
 #include <iostream>
 #include <string>
 #include <deque>
