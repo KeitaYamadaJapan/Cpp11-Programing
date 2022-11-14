@@ -9,6 +9,12 @@
   //  http://blog.csdn.net/nnnnnnnnnnnny/article/details/50409763
  // POJ C++程序设计 编程题＃3 编程作业—文件操作与模板
 
+/**
+For my Text
+Coursera 北京大学　CS3 week7 Q1
+Author 中国の学生さん
+*/
+
   #include <iostream>
   #include <iomanip>
   using namespace std;
