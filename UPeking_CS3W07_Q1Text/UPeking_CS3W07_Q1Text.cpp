@@ -9,6 +9,12 @@
 //  http://www.cnblogs.com/dagon/p/4776905.html
 //
 
+/**
+For mt text.
+Coursera 北京大学　CS3 week7 Q1
+Author 中国の学生さん。
+*/
+
 #include <iostream>
 using namespace std;
 //
