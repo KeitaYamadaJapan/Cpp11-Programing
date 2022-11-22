@@ -5,6 +5,13 @@
 //  Created by 山田啓太 on 2022/11/05.
 //
 
+/**
+For my text
+Coursera 北京大学　CS3 week6 Q2
+Author 中国の学生さん
+*/
+
+
 #include <iostream>
 using namespace std;
 class A {
