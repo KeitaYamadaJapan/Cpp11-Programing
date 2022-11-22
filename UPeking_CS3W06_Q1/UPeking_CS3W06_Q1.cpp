@@ -5,6 +5,13 @@
 //  Created by 山田啓太 on 2022/11/04.
 //
 
+/**
+Coursera 北京大学　CS3 week6 Q1
+My solution
+*/
+
+
+
 #include <iostream>
 using namespace std;
 class A {
