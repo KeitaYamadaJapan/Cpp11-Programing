@@ -5,13 +5,17 @@
 //  Created by 山田啓太 on 2022/11/25.
 //
 
+/**
+Coursera 北京大学 CS3 week3 Q1
+*/
+
 #include <iostream>
 using namespace std;
 class A {
 public:
     int val;
 // 在此处补充你的代码
-    A():val(0){}
+    A(int v=0):val(v){}
     int &GetObj(){
         return this->val;
         /**
