@@ -5,6 +5,11 @@
 //  Created by 山田啓太 on 2022/11/26.
 //
 
+/**
+Coursera 北京大学 CS3 week8 Q1
+My solution
+*/
+
 #include <iostream>
 #include <vector>
 #include <map>
